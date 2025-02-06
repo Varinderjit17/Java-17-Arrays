@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6759e241-5e02-480b-a4c7-8a53a9d87208" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/comparable/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerclasses/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerclasses/EmployeeComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaMain.java" afterDir="false" />
     </list>
